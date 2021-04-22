@@ -6,5 +6,7 @@ I used react native to implement all the components, and Expo to simulate the ap
 Note: To simulate the application on the phone we need to change the baseUrl in the shared folder on the Frontend and use our machine ipv4 address.
 ## Setup
 To run this project, install it locally using npm:
+```
 $ npm install
 $ npm start
+```
